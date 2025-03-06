@@ -1,0 +1,14 @@
+{
+  "name": "m3-wk1-d2-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shisham Chudal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
